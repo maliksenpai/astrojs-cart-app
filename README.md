@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-<img src="https://github.com/maliksenpai/astrojs-cart-app/blob/main/github/mainpage.png" width="400px" />
+<img src="https://github.com/maliksenpai/astrojs-cart-app/blob/main/github/mainpage.png" width="100%" />
 
 ## 🚀 Project Structure
 
